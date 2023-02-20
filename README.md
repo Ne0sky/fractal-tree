@@ -1,2 +1,2 @@
 # fractal-tree
-![image](files://C:/Users/jzhang/Desktop/capture.png)
+![alt text](https://github.com/Ne0sky/fractal-tree/blob/main/Capture.png?raw=true)
